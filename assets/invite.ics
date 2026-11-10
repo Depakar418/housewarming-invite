@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Housewarming Invite//TA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:puthumanai-pugu-vizha-20261214@kokkupalayam
+DTSTAMP:20261110T000000Z
+DTSTART:20261213T230000Z
+DTEND:20261214T003000Z
+SUMMARY:புதுமனை புகுவிழா - R.துரைமுருகன் & மகாலட்சுமி
+DESCRIPTION:புதுமனை புகுவிழா\, காலை 4.30 - 6.00 மணி (IST)\, திங்கட்கிழமை 14-12-2026. தொடர்புக்கு: 9865356553
+LOCATION:கொக்குப்பாளையம்\, பண்ருட்டி\, கடலூர் மாவட்டம்
+BEGIN:VALARM
+TRIGGER:-PT12H
+ACTION:DISPLAY
+DESCRIPTION:நாளை புதுமனை புகுவிழா
+END:VALARM
+END:VEVENT
+END:VCALENDAR
